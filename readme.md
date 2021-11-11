@@ -7,3 +7,8 @@
 2. log_analyzer
 
 parse.log를 파싱하는 기능들이 들어있음
+
+
+3. turtle
+
+python turtle로 그림 그리들는 예제
