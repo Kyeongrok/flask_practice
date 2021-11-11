@@ -14,4 +14,10 @@ parse.log를 파싱하는 기능들이 들어있음
 python turtle로 그림 그리는 예제
 
 4. data_go_kr 
+
 공공데이터(data.go.kr) 호출 예제
+   
+5.kafka_thread
+
+kafka의 consumer, producer예제와 thread
+
